@@ -25,12 +25,6 @@
   "content": "libretv-a9l.pages.dev",
   "ttl": 3600,
   "proxied": false
-    },
-    {
-  "type": "TXT",
-  "name": "_cf-custom-hostname.snip",
-  "content": "ab78d6b3-4f1c-4fd6-82c8-f38545520708",
-  "ttl": 3600
-    }    
+    }
   ]
 }
