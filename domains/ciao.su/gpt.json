@@ -29,9 +29,8 @@
     {
   "type": "TXT",
   "name": "_cf-custom-hostname.snip.gpt.ciao.su",
-  "description": "ab78d6b3-4f1c-4fd6-82c8-f38545520708",
-  "ttl": 3600,
-  "proxied": false
+  "content": "ab78d6b3-4f1c-4fd6-82c8-f38545520708",
+  "ttl": 3600
     }    
   ]
 }
